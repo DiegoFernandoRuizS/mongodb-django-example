@@ -87,3 +87,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+*.xml
+.idea/mongodb-django-example.iml
+*.xml
+*.sqlite3
+*.xml
+*.xml
